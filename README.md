@@ -15,5 +15,4 @@ npm install --save react-router-dom
 functionality implemented:
 
 Routing.
-Browser history.
 Links.
