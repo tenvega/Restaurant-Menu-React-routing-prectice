@@ -17,6 +17,6 @@ npm install --save react-router-dom
 
 functionality implemented:
 
-Routing.
+-Routing.
 
-Links.
+-Links.
