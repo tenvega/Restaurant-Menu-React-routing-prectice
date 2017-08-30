@@ -1,8 +1,11 @@
 App Description
 
 -routing
+
 -links
+
 -browser history
+
 -component nesting
 
 Prerequisite  
@@ -15,4 +18,5 @@ npm install --save react-router-dom
 functionality implemented:
 
 Routing.
+
 Links.
